@@ -4,3 +4,8 @@ lark
 langchain-elasticsearch
 python-dotenv
 langchain-community
+transformers
+torch
+torchvision
+eland
+sentence_transformers 
